@@ -2,7 +2,7 @@
 // @name          Chaturbate MULTI-CAM Viewer
 // @namespace     https://tesomayn.com
 // @description   Adds a new tab to Chaturbate, and allows you to watch multiple webcams at once
-// @version       2.0.1
+// @version       2.0.2
 // @include       http://chaturbate.com/
 // @include       http://chaturbate.com/#*
 // @include       http://chaturbate.com/#live*
