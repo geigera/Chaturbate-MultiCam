@@ -18,6 +18,7 @@
 // @include       https://*.chaturbate.com/#*
 // @include       https://*.chaturbate.com/*-cams/*
 // @exclude       http://serve.ads.chaturbate.com/*
+// @require       https://code.jquery.com/jquery-2.1.4.min.js
 // @require       https://greasyfork.org/scripts/14852-patreon-lib/code/Patreonlib.js?version=93835
 // @grant         unsafeWindow
 // @grant         GM_registerMenuCommand
